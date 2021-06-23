@@ -2,7 +2,6 @@
 #define ull unsigned long long
 #define ll long long
 using namespace std;
-const ll mod =1e9+7;
 int main()
 {
     ios_base::sync_with_stdio(false);
