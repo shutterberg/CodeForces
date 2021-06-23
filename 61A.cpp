@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+int main()
+{
     string n,m;
     cin>>n>>m;
     for(int i=0;i<n.size();i++)
