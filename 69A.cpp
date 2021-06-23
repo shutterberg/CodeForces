@@ -2,8 +2,7 @@
 #define ull unsigned long long
 #define ll long long
 using namespace std;
-int main()
-{
+int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int a=0,b=0,c=0,n;
